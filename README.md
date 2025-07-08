@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @LuciferEternal
-- 🌱 I’m currently learning             C,C++,Java,Python.
-- 📫 How to reach me⬇️             
-- 📱 Telegram : LuciferEternal
+
 
 <!---
 LuciferEternal/LuciferEternal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
