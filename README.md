@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuciferEternal
 - 👀 Interested in building             Custom ROMS
 - 🌱 I’m currently learning             C,C++,Java,Python.
-- 📫 How to reach me                
+- 📫 How to reach me⬇️                
 - 📱 Telegram : LuciferEternal
 
 <!---
